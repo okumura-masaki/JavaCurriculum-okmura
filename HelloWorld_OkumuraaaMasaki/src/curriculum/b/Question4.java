@@ -151,5 +151,8 @@ public class Question4 {
                 }
             }
         }
+       
+     // Scannerをクローズする
+        scanner.close();
     }
 }
