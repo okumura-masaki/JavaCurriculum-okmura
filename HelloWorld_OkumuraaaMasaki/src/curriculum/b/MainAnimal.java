@@ -15,3 +15,4 @@ public class MainAnimal {
         System.out.println("速度：" + animal.getSpeed() + "km/h");
     }
 }
+
